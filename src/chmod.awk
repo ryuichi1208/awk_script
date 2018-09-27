@@ -7,3 +7,4 @@ BEGIN{
 END{
   printf("(%d行)\n",i)
 }
+#####
